@@ -28,4 +28,3 @@ const ReviewProducts = (props) => {
 };
 
 export default ReviewProducts;
-<h1>Review Products</h1>;
